@@ -20,6 +20,8 @@ export default function Home() {
             Get started by editing&nbsp;
             <code className={styles.code}>src/pages/index.tsx</code>
           </p>
+	  <h1> Prueba de Manu con NextJS </h1>
+	  <h1 className={styles.title}> Bienvenidos a mi Aplicación </h1>
           <div>
             <a
               href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
